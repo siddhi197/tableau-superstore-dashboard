@@ -7,9 +7,9 @@ This Tableau dashboard analyzes sales and profit data from a fictional superstor
 
 ## Structure
 
-- 📊 `Superstore.twbx` – Tableau dashboard
+- 📊 `Sales & Profit Dashboard.twbx` – Tableau dashboard
 - 📁 `Screenshots` – Images of dashboards
-- 📁 `Exports` – PDF/PNG of final dashboards
+- 📁 `Exports` – PDF of final dashboards
 
 ## Tools Used
 - Tableau Public (on Mac)
