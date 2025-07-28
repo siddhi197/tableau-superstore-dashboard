@@ -14,3 +14,6 @@ This Tableau dashboard analyzes sales and profit data from a fictional superstor
 ## Tools Used
 - Tableau Public (on Mac)
 - GitHub for version control and hosting
+
+## 🌐 View Live Dashboard
+> https://public.tableau.com/app/profile/siddhi8530/viz/SalesProfitDashboard_17534781552860/SalesProfitDashboard
